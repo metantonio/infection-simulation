@@ -1,4 +1,4 @@
-[Link](https://metantonio.github.io/infection-simulation/).
+[Versión Online](https://metantonio.github.io/infection-simulation/).
 
 #Para ejecutar en Local:
 
