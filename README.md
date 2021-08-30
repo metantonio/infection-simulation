@@ -15,7 +15,7 @@ Se necesita tener instalado Python 3.9 (preferiblemente), el cual puede descarga
 Para ejecutar el script, basta con darle doble click al archivo: `run Server.bat`. Aunque si se desea ejecutar el script manualmente, hay que abrir el prompt de Windows, navegar hasta la dirección en que están contenidos los archivos, y ejecutar:
 
 ```sh
-python3 "run Server".py
+python3 server.py
 ```
 
 Abrir un navegador de web: [http://localhost:3000/](http://localhost:3000/)
