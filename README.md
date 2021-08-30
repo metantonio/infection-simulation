@@ -1,6 +1,6 @@
 [Versión Online](https://metantonio.github.io/infection-simulation/).
 
-#Para ejecutar en Local:
+# Para ejecutar en Local:
 
 Descargar los archivos en una misma carpeta.
 
@@ -18,4 +18,4 @@ Para ejecutar el script, basta con darle doble click al archivo: `run Server.bat
 python3 "run Server".py
 ```
 
-Abrir un navegador de web de preferencia: [http://localhost:3000/](http://localhost:3000/)
+Abrir un navegador de web: [http://localhost:3000/](http://localhost:3000/)
