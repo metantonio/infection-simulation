@@ -18,4 +18,4 @@ Para ejecutar el script, basta con darle doble click al archivo: `run Server.bat
 python3 server.py
 ```
 
-Abrir un navegador de web: [http://localhost:3000/](http://localhost:3000/)
+Abrir un navegador web en: [http://localhost:3000/](http://localhost:3000/)
